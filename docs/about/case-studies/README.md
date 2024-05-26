@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+# On smaller screens, stacking the case studies vertically could enhance readability.Need to work
 
 # Knative Case Studies
 <table>
